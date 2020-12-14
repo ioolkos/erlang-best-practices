@@ -7,3 +7,13 @@ I'll shoot snippets towards this repo as they come up. Contributions welcome. In
 This is modelled after the great Scala Best Practices repo: https://github.com/alexandru/scala-best-practices
 
 ## Table of Content
+
+### Links (check out those other repos...nothing to see here)
+
+https://github.com/inaka/erlang_guidelines
+
+https://github.com/nuex/erlang-style-guide
+
+https://github.com/drobakowski/awesome-erlang
+
+https://github.com/adoptingerlang/adoptingerlang
